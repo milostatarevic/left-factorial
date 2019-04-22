@@ -1,7 +1,7 @@
 # Improved Algorithms for Left Factorial Residues
 
 This repository provides the implementation of the algorithms presented in the paper
-"Improved Algorithms for Left Factorial Residues" by
+"[Improved Algorithms for Left Factorial Residues](https://arxiv.org/abs/1904.09196)" by
 Vladica Andrejic, Alin Bostan, and Milos Tatarevic.
 
 ## Dependencies
